@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native"
     container:{
         borderColor: '#8D9BB5',
         borderWidth: 1,
-        borderRadius: 4,
+        borderRadius: 5,
         width: 22,
         height: 22,
     },

@@ -7,7 +7,7 @@ const Favourites = () =>{
     return(
         <SafeAreaView>
             <ScrollView style={styles.container}>
-                <Text>Favourites</Text>
+                <Text>Favouritess</Text>
             </ScrollView>
         </SafeAreaView>
     );

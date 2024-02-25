@@ -15,7 +15,7 @@ const Home = () => {
                 title="Find all you need"
             />
             <ScrollView style={styles.container}>
-                <Text>Home</Text>
+                <Text>Home .</Text>
             </ScrollView>
         </SafeAreaView>
     );
